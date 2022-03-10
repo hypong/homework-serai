@@ -8,8 +8,6 @@ import { PizzaModal } from '../components/pizzaWidget/PizzaModal'
 import { Cart } from '../components/pizzaWidget/Cart'
 
 const Home: NextPage<{ pizzaData: PizzaData }> = ({ pizzaData }) => {
-  console.log(pizzaData)
-
   return (
     <div>
       <Head>
