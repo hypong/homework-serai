@@ -50,13 +50,3 @@ const CardName = styled.div`
   padding-top: 2rem;
   padding-bottom: 2rem;
 `
-
-const CardButton = styled.button`
-  width: 100%;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  border: 0;
-  border-radius: 1.6rem;
-  background-color: lightgrey;
-  font-size: 1.6rem;
-`

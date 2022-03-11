@@ -21,3 +21,9 @@ Eslint
 ```
 yarn lint
 ```
+
+Run test cases (dont have time to implement test cases for all components )
+
+```
+yarn test
+```

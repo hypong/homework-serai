@@ -57,6 +57,7 @@ const PizzaCardWrapper = styled.div`
   justify-content: center;
 `
 const CartWrapper = styled.div`
+  padding: 0 1rem;
   flex: 0 0 25%;
 
   @media (max-width: 610px) {
